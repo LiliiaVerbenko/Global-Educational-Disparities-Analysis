@@ -12,10 +12,11 @@
 - Analyzing relationships between Expected Years of Schooling and GDP to explore the impact of education on economic development.
 
 ## Data:
-- Country/Territory
+- Country
 - Continent
 - HDI Rank (2021)
 - Human Development Groups
 - Expected Years of Schooling (1990 to 2021)
 - GDP
+  
 ## Folders:
