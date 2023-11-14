@@ -21,3 +21,5 @@ This analysis provides valuable insights into educational prospects across count
 - GDP
   
 ## Folders:
+- **Project Management**: Contains the Project Brief
+- Data: Global Educational Dynamics Analysis
