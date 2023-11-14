@@ -19,9 +19,9 @@ This analysis provides valuable insights into educational prospects across count
 - Human Development Groups
 - Expected Years of Schooling (1990 to 2021)
 - GDP
-
-![image](image.png)
   
 ## Folders:
 - **Project Management**: Contains the Project Brief
 - Data: Global Educational Dynamics Analysis
+
+![image](image.png)
