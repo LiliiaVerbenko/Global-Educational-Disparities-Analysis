@@ -2,6 +2,8 @@
 
 ### ***Welcome to the Global Educational Dynamics Analysis project!***
 
+![image](image.png)
+
 *Explore the evolution and disparities in Expected Years of Schooling (EYS) on a global scale. 
 This analysis provides valuable insights into educational prospects across countries, regions, and development groups.*
 
