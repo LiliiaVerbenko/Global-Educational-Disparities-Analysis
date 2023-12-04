@@ -1,4 +1,4 @@
-# **Global Educational Dynamics Analysis**
+# **Global Educational Disparities**
 
 ### ***Welcome to the Global Educational Dynamics Analysis project!***
 
