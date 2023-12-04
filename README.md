@@ -56,7 +56,7 @@ Economic prosperity, represented by GDP,does not always align with the Education
 
 A strong negative correlation (-0.7948) shows that higher Human Development is associated with decreased Expected Years of Schooling. 
 
-<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/Global%20Education%204.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Global-Educational-Disparities-Analysis/blob/main/Global%20Educational%20Dynamics%20Analysis/03%20Visualizations/%20Global%20Education%204.jpg" width="400">
 
 - Cluster 3 suggests diverse regions with low human development. 
 - Clusters 1 and 2 demonstrate positive correlations between higher HDI ranks and increased schooling. 
