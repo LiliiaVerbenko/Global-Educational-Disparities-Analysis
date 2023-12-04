@@ -23,7 +23,7 @@ This analysis provides valuable insights into educational prospects across count
 
 - [Project Brief](https://drive.google.com/file/d/1-HY_F6zfRMm09vgA6tjcT6VL8RwTUZeq/view?usp=share_link)
 
-- [VGChartz Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide)
+- [Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide)
 
 ## Problem
 
