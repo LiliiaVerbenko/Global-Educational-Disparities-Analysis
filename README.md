@@ -21,8 +21,6 @@ This analysis provides valuable insights into educational prospects across count
 
 - [Tableau Report](https://public.tableau.com/shared/QNNJ7XKZW?:display_count=n&:origin=viz_share_link)
 
-- [Project Brief](https://drive.google.com/file/d/1-HY_F6zfRMm09vgA6tjcT6VL8RwTUZeq/view?usp=share_link)
-
 - [Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/years-of-schooling-worldwide)
 
 ## Problem
